@@ -34,28 +34,28 @@ Sou um desenvolvedor Back-End apaixonado por tecnologia e soluções criativas. 
 
 ### 🧑🏻 Sobre mim
 
-- 💻 Apaixonado por Back-End e automações
-- 🧠 Entusiasta de ciência de dados, web e APIs REST
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (UniCesumar)**
-- 🔎 Sempre explorando novas ferramentas e boas práticas de desenvolvimento
-- 🌱 Estudando tecnologias modernas como containers, microsserviços e cloud
+- 💻 Apaixonado por Back-End e automações  
+- 🧠 Entusiasta de ciência de dados, web e APIs REST  
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (UniCesumar)**  
+- 🔎 Sempre explorando novas ferramentas e boas práticas de desenvolvimento  
+- 🌱 Estudando tecnologias modernas como containers, microsserviços e cloud  
 
 ---
 
 ### 🔧 Tecnologias e Ferramentas
 
-<img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img alt="Spring" title="Spring Framework" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img alt="Django" title="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img alt="Pandas" title="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img alt="NumPy" title="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img alt="PowerBI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-<img alt="VSCode" title="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-<br/><br/>
+<p align="left">
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Spring" title="Spring Framework" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Django" title="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img alt="Pandas" title="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img alt="NumPy" title="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Power BI" title="Power BI" width="30px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+  <img alt="VSCode" title="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
 
 ---
 
@@ -64,8 +64,6 @@ Sou um desenvolvedor Back-End apaixonado por tecnologia e soluções criativas. 
 **UniCesumar**  
 📚 *Análise e Desenvolvimento de Sistemas*  
 🗓️ `Mai/2022 - Nov/2024`
-
-
 
 ---
 
@@ -91,9 +89,9 @@ Sou um desenvolvedor Back-End apaixonado por tecnologia e soluções criativas. 
 ### 🤝 Vamos colaborar?
 
 Estou aberto para:
-- Contribuir com projetos open-source
-- Participar de hackathons e desafios de programação
-- Parcerias para desenvolver projetos e estudos em grupo
+- Contribuir com projetos open-source  
+- Participar de hackathons e desafios de programação  
+- Parcerias para desenvolver projetos e estudos em grupo  
 
 ---
 
